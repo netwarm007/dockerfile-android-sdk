@@ -1,5 +1,5 @@
 # based on https://registry.hub.docker.com/u/samtstern/android-sdk/dockerfile/ with openjdk-8
-FROM java:8
+FROM tim03/jdk
 
 LABEL MAINTAINER Chen, Wenli <chenwenli@chenwenli.com>
 
